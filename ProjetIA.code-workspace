@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "ProjetIA",
+		"path": "."
+	},
+	{
+		"name": "fake_job_postings.csv",
+		"path": "../../../../../Users/nooab/Downloads/fake_job_postings.csv"
+	}
+],
+  "settings": {}
+}
